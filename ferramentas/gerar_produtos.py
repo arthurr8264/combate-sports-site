@@ -169,8 +169,7 @@ def cabecalho(p):
         nav.append(f'<a href="../{href}"{atual}>{nome}</a>')
     return f"""<header class="top">
   <a class="brand" href="../index.html" aria-label="Combate Sports, página inicial">
-    <!-- Para usar a logo: troque este bloco por <img src="../img/logo.png" alt="Combate Sports"> -->
-    <span class="b1">Combate</span><span class="b2">Sports</span>
+    <img src="../img/logo.png" alt="Combate Sports" width="600" height="209">
   </a>
   <nav>{''.join(nav)}</nav>
 </header>"""
@@ -260,6 +259,7 @@ def pagina(p):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="only light">
 <title>{escape(p['nome'])} | {publico} | Combate Sports</title>
 <meta name="description" content="{escape(p['resumo'])} Tamanhos {escape(tamanhos)}. Combate Sports, Caruaru.">
 <meta property="og:title" content="{escape(p['nome'])} | Combate Sports">
