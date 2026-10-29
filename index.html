@@ -1,56 +1,92 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="only light">
-<title>Combate Sports | Artigos fitness em Caruaru</title>
-<meta name="description" content="Roupas fitness masculinas e femininas: calças, shorts, camisas e regatas.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css?v=2">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Combate Sports — moda fitness em Caruaru</title>
+  <meta name="description" content="Regatas, camisas, croppeds e bermudas fitness masculinas e femininas. Loja em Caruaru com pedido pelo WhatsApp.">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="top">
-  <a class="brand" href="index.html" aria-label="Combate Sports, página inicial">
-    <img src="img/logo.png" alt="Combate Sports" width="600" height="209">
-  </a>
-  <nav><a href="index.html" aria-current="page">Início</a><a href="masculino.html">Masculino</a><a href="feminino.html">Feminino</a><a href="contato.html">Contato</a></nav>
-</header>
 <main>
-<section class="hero">
-  <div class="hero-text">
-    <h1>Treino é combate.<br>Vista-se para ele.</h1>
-    <p>Roupas fitness masculinas e femininas para quem pratica esportes.</p>
-    <div class="actions"><a class="btn" href="masculino.html">Ver masculino</a><a class="btn alt" href="feminino.html">Ver feminino</a></div>
-  </div>
-  <div class="tri" aria-hidden="true"></div>
-</section>
-<section class="split">
-  <a class="tile navy" href="masculino.html"><h2>Masculino</h2><p>Calças, shorts, camisas e regatas</p></a>
-  <a class="tile orange" href="feminino.html"><h2>Feminino</h2><p>Calças, shorts, camisas e regatas</p></a>
-</section>
-<section class="about">
-  <h2>Sobre a loja</h2>
-  <p>Texto provisório: a Combate Sports vende artigos fitness em Caruaru, para homens e mulheres que treinam. Substitua por um texto escrito pelo dono da loja.</p>
-  <a class="btn" href="contato.html">Como chegar e falar com a gente</a>
-</section>
+  <section class="hero">
+    <div class="wrap">
+      <div class="hero-text">
+        <h1>Roupa pra quem treina de verdade.</h1>
+        <p>Regatas, camisas, croppeds e bermudas para musculação, corrida e o dia a dia. Escolha cor e tamanho aqui e feche o pedido pelo WhatsApp — ou passe na loja.</p>
+        <div class="ctas">
+          <a class="btn" href="catalogo.html?publico=feminino">Ver feminino</a>
+          <a class="btn ghost" href="catalogo.html?publico=masculino">Ver masculino</a>
+        </div>
+      </div>
+      <div class="hero-figs" id="hero-figs" aria-hidden="true"></div>
+    </div>
+    <svg class="ropes" viewBox="0 0 1440 190" preserveAspectRatio="none" aria-hidden="true">
+      <path class="r1" d="M-20 70 Q720 112 1460 70"/>
+      <path class="r2" d="M-20 112 Q720 154 1460 112"/>
+      <path class="r2b" d="M-20 112 Q720 154 1460 112"/>
+      <path class="r3" d="M-20 154 Q720 196 1460 154"/>
+    </svg>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head"><h2>Compre por peça</h2></div>
+      <div class="cats" id="cats"></div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <div class="section-head">
+        <div><h2>Chegou agora</h2><p>As peças que acabaram de chegar na loja.</p></div>
+        <div class="tabs" role="tablist" aria-label="Filtrar novidades">
+          <button role="tab" aria-selected="true" data-aud="">Tudo</button>
+          <button role="tab" aria-selected="false" data-aud="feminino">Feminino</button>
+          <button role="tab" aria-selected="false" data-aud="masculino">Masculino</button>
+        </div>
+      </div>
+      <div class="grid four" id="news"></div>
+      <p style="text-align:center;margin-top:2rem"><a class="btn ghost" href="catalogo.html?sort=novidades">Ver todas as novidades</a></p>
+    </div>
+  </section>
+
+  <section class="perks" id="como-comprar" aria-label="Como comprar">
+    <div class="wrap">
+      <div class="perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 8h14l-1 13H6z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+        <div><b>Monte a sacola no site</b><span>Escolha a cor e o tamanho de cada peça.</span></div></div>
+      <div class="perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 20l1.4-4A8 8 0 1 1 8 18.6z"/><path d="M9 10c.5 2 2 3.5 4 4l1.2-1.2 2 1-1 1.8c-3.5 0-7-3.5-7-7l1.8-1 1 2z"/></svg>
+        <div><b>Feche pelo WhatsApp</b><span>Valores, pagamento e entrega combinados com a loja.</span></div></div>
+      <div class="perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7" cy="18" r="1.6"/><circle cx="17" cy="18" r="1.6"/></svg>
+        <div><b>Retire ou receba</b><span>Retirada na loja em Caruaru ou entrega combinada.</span></div></div>
+    </div>
+  </section>
+
+  <section class="section" id="promo-section">
+    <div class="wrap">
+      <div class="section-head">
+        <div><h2>Promoções</h2><p>Preço baixo enquanto durar o estoque.</p></div>
+        <a class="link" href="catalogo.html?promo=1">Ver todas</a>
+      </div>
+      <div class="scroller" id="promo"></div>
+    </div>
+  </section>
+
+  <section class="store" id="loja">
+    <div class="wrap">
+      <div>
+        <h2>Prove na loja</h2>
+        <p>Quer sentir o tecido antes? A loja fica no centro de Caruaru. Separe pelo site e retire na loja.</p>
+        <address id="store-address"></address>
+        <dl id="store-hours"></dl>
+        <div class="ctas" id="store-ctas"></div>
+      </div>
+      <iframe class="map" id="map" title="Mapa da loja Combate Sports" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </section>
 </main>
-<footer class="foot">
-  <div>
-    <strong>Combate Sports</strong>
-    <p>Artigos fitness masculinos e femininos.</p>
-  </div>
-  <div>
-    <p>Rua Samuel Campelo, 67, Caruaru</p>
-    <p><a href="https://www.google.com/maps/search/?api=1&query=Rua+Samuel+Campelo+67+Caruaru+PE">Ver no mapa</a></p>
-  </div>
-  <div>
-    <p><a href="https://www.instagram.com/combate_sport02/">Instagram @combate_sport02</a></p>
-    <p><a href="https://wa.me/558194110631">WhatsApp (81) 9411-0631</a></p>
-  </div>
-</footer>
-<a class="wa-float" href="https://wa.me/558194110631?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20Combate%20Sports." aria-label="Chamar no WhatsApp">Chamar no WhatsApp</a>
+
+<script type="module" src="js/home.js"></script>
 </body>
 </html>

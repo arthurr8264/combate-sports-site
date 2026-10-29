@@ -1,0 +1,1215 @@
+{
+ "generated_at": "2026-10-29T20:13:36.445Z",
+ "store": {
+  "name": "Combate Sports",
+  "whatsapp": "558194110631",
+  "whatsapp_display": "(81) 9411-0631",
+  "instagram": "combate_sport02",
+  "address": "Rua Samuel Campelo, 67",
+  "city": "Caruaru – PE",
+  "hours": [],
+  "maps_query": "Rua Samuel Campelo, 67, Caruaru - PE",
+  "free_shipping_from_cents": null,
+  "installments": 1
+ },
+ "categories": [
+  {
+   "id": 1,
+   "slug": "regatas",
+   "name": "Regatas",
+   "position": 0,
+   "product_count": 3
+  },
+  {
+   "id": 2,
+   "slug": "camisas",
+   "name": "Camisas",
+   "position": 1,
+   "product_count": 3
+  },
+  {
+   "id": 3,
+   "slug": "shorts",
+   "name": "Shorts e bermudas",
+   "position": 2,
+   "product_count": 2
+  },
+  {
+   "id": 4,
+   "slug": "calcas",
+   "name": "Calças",
+   "position": 3,
+   "product_count": 0
+  }
+ ],
+ "colors": [
+  {
+   "id": 9,
+   "name": "Amarelo",
+   "hex": "#e8c27a"
+  },
+  {
+   "id": 15,
+   "name": "Amarelo-claro",
+   "hex": "#f0d39a"
+  },
+  {
+   "id": 14,
+   "name": "Azul",
+   "hex": "#5bc6e8"
+  },
+  {
+   "id": 6,
+   "name": "Azul royal",
+   "hex": "#2440b8"
+  },
+  {
+   "id": 5,
+   "name": "Azul-claro",
+   "hex": "#9fd0ea"
+  },
+  {
+   "id": 1,
+   "name": "Bege",
+   "hex": "#d9c3a5"
+  },
+  {
+   "id": 8,
+   "name": "Branco",
+   "hex": "#ffffff"
+  },
+  {
+   "id": 12,
+   "name": "Caramelo",
+   "hex": "#b8741a"
+  },
+  {
+   "id": 7,
+   "name": "Cinza",
+   "hex": "#8a9099"
+  },
+  {
+   "id": 4,
+   "name": "Coral",
+   "hex": "#d0634f"
+  },
+  {
+   "id": 3,
+   "name": "Preto",
+   "hex": "#1b1b1f"
+  },
+  {
+   "id": 13,
+   "name": "Rosa",
+   "hex": "#f2b8c6"
+  },
+  {
+   "id": 11,
+   "name": "Verde-militar",
+   "hex": "#59684f"
+  },
+  {
+   "id": 10,
+   "name": "Verde-água",
+   "hex": "#9dd3b5"
+  },
+  {
+   "id": 2,
+   "name": "Vermelho",
+   "hex": "#c8202a"
+  }
+ ],
+ "products": [
+  {
+   "id": 2,
+   "slug": "regata-machao-furadinho",
+   "name": "Regata Machão Furadinho",
+   "description": "Regata machão masculina em poliamida furadinho (dry-fit), com detalhe de listras nos ombros.\nPeça extremamente confortável, disponível em várias cores.\nTecido: poliamida furadinho (dry-fit).",
+   "audience": "masculino",
+   "category_id": 1,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": true,
+   "active": true,
+   "created_at": "2026-10-29 19:12:54",
+   "category": "regatas",
+   "category_name": "Regatas",
+   "colors": [
+    {
+     "id": 2,
+     "name": "Vermelho",
+     "hex": "#c8202a"
+    },
+    {
+     "id": 3,
+     "name": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 1,
+     "name": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 4,
+     "name": "Coral",
+     "hex": "#d0634f"
+    }
+   ],
+   "sizes": [
+    "M",
+    "G",
+    "GG"
+   ],
+   "variants": [
+    {
+     "id": 2,
+     "size": "M",
+     "sku": "REGATA-MACHAO-FURADINHO-VERMELHO-M",
+     "stock": 10,
+     "color_id": 2,
+     "color": "Vermelho",
+     "hex": "#c8202a"
+    },
+    {
+     "id": 3,
+     "size": "G",
+     "sku": "REGATA-MACHAO-FURADINHO-VERMELHO-G",
+     "stock": 10,
+     "color_id": 2,
+     "color": "Vermelho",
+     "hex": "#c8202a"
+    },
+    {
+     "id": 4,
+     "size": "GG",
+     "sku": "REGATA-MACHAO-FURADINHO-VERMELHO-GG",
+     "stock": 10,
+     "color_id": 2,
+     "color": "Vermelho",
+     "hex": "#c8202a"
+    },
+    {
+     "id": 5,
+     "size": "M",
+     "sku": "REGATA-MACHAO-FURADINHO-PRETO-M",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 6,
+     "size": "G",
+     "sku": "REGATA-MACHAO-FURADINHO-PRETO-G",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 7,
+     "size": "GG",
+     "sku": "REGATA-MACHAO-FURADINHO-PRETO-GG",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 8,
+     "size": "M",
+     "sku": "REGATA-MACHAO-FURADINHO-BEGE-M",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 9,
+     "size": "G",
+     "sku": "REGATA-MACHAO-FURADINHO-BEGE-G",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 10,
+     "size": "GG",
+     "sku": "REGATA-MACHAO-FURADINHO-BEGE-GG",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 11,
+     "size": "M",
+     "sku": "REGATA-MACHAO-FURADINHO-CORAL-M",
+     "stock": 10,
+     "color_id": 4,
+     "color": "Coral",
+     "hex": "#d0634f"
+    },
+    {
+     "id": 12,
+     "size": "G",
+     "sku": "REGATA-MACHAO-FURADINHO-CORAL-G",
+     "stock": 10,
+     "color_id": 4,
+     "color": "Coral",
+     "hex": "#d0634f"
+    },
+    {
+     "id": 13,
+     "size": "GG",
+     "sku": "REGATA-MACHAO-FURADINHO-CORAL-GG",
+     "stock": 10,
+     "color_id": 4,
+     "color": "Coral",
+     "hex": "#d0634f"
+    }
+   ],
+   "images": [
+    {
+     "id": 1,
+     "url": "img/produtos/masc-regata-2.jpg",
+     "color_id": null,
+     "position": 0
+    },
+    {
+     "id": 2,
+     "url": "img/produtos/masc-regata-3.jpg",
+     "color_id": 2,
+     "position": 1
+    }
+   ],
+   "in_stock": true
+  },
+  {
+   "id": 5,
+   "slug": "bermuda-dupla-premium",
+   "name": "Bermuda Dupla Premium",
+   "description": "Bermuda masculina dupla, com bermuda interna, cordão de ajuste na cintura e bolso com zíper.\nDisponível em várias cores, para treino ou uso no dia a dia.",
+   "audience": "masculino",
+   "category_id": 3,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": true,
+   "active": true,
+   "created_at": "2026-10-29 16:12:54",
+   "category": "shorts",
+   "category_name": "Shorts e bermudas",
+   "colors": [
+    {
+     "id": 3,
+     "name": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 1,
+     "name": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 7,
+     "name": "Cinza",
+     "hex": "#8a9099"
+    },
+    {
+     "id": 8,
+     "name": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "sizes": [
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "variants": [
+    {
+     "id": 25,
+     "size": "P",
+     "sku": "BERMUDA-DUPLA-PREMIUM-PRETO-P",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 26,
+     "size": "M",
+     "sku": "BERMUDA-DUPLA-PREMIUM-PRETO-M",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 27,
+     "size": "G",
+     "sku": "BERMUDA-DUPLA-PREMIUM-PRETO-G",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 28,
+     "size": "GG",
+     "sku": "BERMUDA-DUPLA-PREMIUM-PRETO-GG",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 29,
+     "size": "P",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BEGE-P",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 30,
+     "size": "M",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BEGE-M",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 31,
+     "size": "G",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BEGE-G",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 32,
+     "size": "GG",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BEGE-GG",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 33,
+     "size": "P",
+     "sku": "BERMUDA-DUPLA-PREMIUM-CINZA-P",
+     "stock": 10,
+     "color_id": 7,
+     "color": "Cinza",
+     "hex": "#8a9099"
+    },
+    {
+     "id": 34,
+     "size": "M",
+     "sku": "BERMUDA-DUPLA-PREMIUM-CINZA-M",
+     "stock": 10,
+     "color_id": 7,
+     "color": "Cinza",
+     "hex": "#8a9099"
+    },
+    {
+     "id": 35,
+     "size": "G",
+     "sku": "BERMUDA-DUPLA-PREMIUM-CINZA-G",
+     "stock": 10,
+     "color_id": 7,
+     "color": "Cinza",
+     "hex": "#8a9099"
+    },
+    {
+     "id": 36,
+     "size": "GG",
+     "sku": "BERMUDA-DUPLA-PREMIUM-CINZA-GG",
+     "stock": 10,
+     "color_id": 7,
+     "color": "Cinza",
+     "hex": "#8a9099"
+    },
+    {
+     "id": 37,
+     "size": "P",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BRANCO-P",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 38,
+     "size": "M",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BRANCO-M",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 39,
+     "size": "G",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BRANCO-G",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 40,
+     "size": "GG",
+     "sku": "BERMUDA-DUPLA-PREMIUM-BRANCO-GG",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "images": [
+    {
+     "id": 3,
+     "url": "img/produtos/masc-short-1.jpg",
+     "color_id": null,
+     "position": 0
+    },
+    {
+     "id": 4,
+     "url": "img/produtos/masc-short-2.jpg",
+     "color_id": 1,
+     "position": 1
+    }
+   ],
+   "in_stock": true
+  },
+  {
+   "id": 7,
+   "slug": "cropped-com-manga",
+   "name": "Cropped com Manga",
+   "description": "Cropped feminino com manga curta, em poliamida.\nPeça com muito conforto, disponível em várias cores para combinar com leggings e shorts.\nTecido: poliamida.",
+   "audience": "feminino",
+   "category_id": 2,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": true,
+   "active": true,
+   "created_at": "2026-10-29 14:12:54",
+   "category": "camisas",
+   "category_name": "Camisas",
+   "colors": [
+    {
+     "id": 1,
+     "name": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 9,
+     "name": "Amarelo",
+     "hex": "#e8c27a"
+    },
+    {
+     "id": 10,
+     "name": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 11,
+     "name": "Verde-militar",
+     "hex": "#59684f"
+    },
+    {
+     "id": 12,
+     "name": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 3,
+     "name": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 8,
+     "name": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 13,
+     "name": "Rosa",
+     "hex": "#f2b8c6"
+    }
+   ],
+   "sizes": [
+    "M",
+    "G"
+   ],
+   "variants": [
+    {
+     "id": 44,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-BEGE-M",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 45,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-BEGE-G",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 46,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-AMARELO-M",
+     "stock": 10,
+     "color_id": 9,
+     "color": "Amarelo",
+     "hex": "#e8c27a"
+    },
+    {
+     "id": 47,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-AMARELO-G",
+     "stock": 10,
+     "color_id": 9,
+     "color": "Amarelo",
+     "hex": "#e8c27a"
+    },
+    {
+     "id": 48,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-VERDE-ÁGUA-M",
+     "stock": 10,
+     "color_id": 10,
+     "color": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 49,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-VERDE-ÁGUA-G",
+     "stock": 10,
+     "color_id": 10,
+     "color": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 50,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-VERDE-MILITAR-M",
+     "stock": 10,
+     "color_id": 11,
+     "color": "Verde-militar",
+     "hex": "#59684f"
+    },
+    {
+     "id": 51,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-VERDE-MILITAR-G",
+     "stock": 10,
+     "color_id": 11,
+     "color": "Verde-militar",
+     "hex": "#59684f"
+    },
+    {
+     "id": 52,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-CARAMELO-M",
+     "stock": 10,
+     "color_id": 12,
+     "color": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 53,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-CARAMELO-G",
+     "stock": 10,
+     "color_id": 12,
+     "color": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 54,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-PRETO-M",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 55,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-PRETO-G",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 56,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-BRANCO-M",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 57,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-BRANCO-G",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 58,
+     "size": "M",
+     "sku": "CROPPED-COM-MANGA-ROSA-M",
+     "stock": 10,
+     "color_id": 13,
+     "color": "Rosa",
+     "hex": "#f2b8c6"
+    },
+    {
+     "id": 59,
+     "size": "G",
+     "sku": "CROPPED-COM-MANGA-ROSA-G",
+     "stock": 10,
+     "color_id": 13,
+     "color": "Rosa",
+     "hex": "#f2b8c6"
+    }
+   ],
+   "images": [
+    {
+     "id": 6,
+     "url": "img/produtos/fem-camisa-1.jpg",
+     "color_id": null,
+     "position": 0
+    },
+    {
+     "id": 7,
+     "url": "img/produtos/fem-camisa-2.jpg",
+     "color_id": 1,
+     "position": 1
+    },
+    {
+     "id": 8,
+     "url": "img/produtos/fem-camisa-3.jpg",
+     "color_id": 9,
+     "position": 2
+    }
+   ],
+   "in_stock": true
+  },
+  {
+   "id": 8,
+   "slug": "cropped-regata",
+   "name": "Cropped Regata",
+   "description": "Cropped regata feminino em poliamida, com gola alta e cava ampla.\nPeça extremamente confortável, disponível em várias cores.\nTecido: poliamida.",
+   "audience": "feminino",
+   "category_id": 1,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": true,
+   "active": true,
+   "created_at": "2026-10-29 13:12:54",
+   "category": "regatas",
+   "category_name": "Regatas",
+   "colors": [
+    {
+     "id": 13,
+     "name": "Rosa",
+     "hex": "#f2b8c6"
+    },
+    {
+     "id": 12,
+     "name": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 14,
+     "name": "Azul",
+     "hex": "#5bc6e8"
+    },
+    {
+     "id": 10,
+     "name": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 1,
+     "name": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 3,
+     "name": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 15,
+     "name": "Amarelo-claro",
+     "hex": "#f0d39a"
+    },
+    {
+     "id": 8,
+     "name": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "sizes": [
+    "M",
+    "G"
+   ],
+   "variants": [
+    {
+     "id": 60,
+     "size": "M",
+     "sku": "CROPPED-REGATA-ROSA-M",
+     "stock": 10,
+     "color_id": 13,
+     "color": "Rosa",
+     "hex": "#f2b8c6"
+    },
+    {
+     "id": 61,
+     "size": "G",
+     "sku": "CROPPED-REGATA-ROSA-G",
+     "stock": 10,
+     "color_id": 13,
+     "color": "Rosa",
+     "hex": "#f2b8c6"
+    },
+    {
+     "id": 62,
+     "size": "M",
+     "sku": "CROPPED-REGATA-CARAMELO-M",
+     "stock": 10,
+     "color_id": 12,
+     "color": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 63,
+     "size": "G",
+     "sku": "CROPPED-REGATA-CARAMELO-G",
+     "stock": 10,
+     "color_id": 12,
+     "color": "Caramelo",
+     "hex": "#b8741a"
+    },
+    {
+     "id": 64,
+     "size": "M",
+     "sku": "CROPPED-REGATA-AZUL-M",
+     "stock": 10,
+     "color_id": 14,
+     "color": "Azul",
+     "hex": "#5bc6e8"
+    },
+    {
+     "id": 65,
+     "size": "G",
+     "sku": "CROPPED-REGATA-AZUL-G",
+     "stock": 10,
+     "color_id": 14,
+     "color": "Azul",
+     "hex": "#5bc6e8"
+    },
+    {
+     "id": 66,
+     "size": "M",
+     "sku": "CROPPED-REGATA-VERDE-ÁGUA-M",
+     "stock": 10,
+     "color_id": 10,
+     "color": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 67,
+     "size": "G",
+     "sku": "CROPPED-REGATA-VERDE-ÁGUA-G",
+     "stock": 10,
+     "color_id": 10,
+     "color": "Verde-água",
+     "hex": "#9dd3b5"
+    },
+    {
+     "id": 68,
+     "size": "M",
+     "sku": "CROPPED-REGATA-BEGE-M",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 69,
+     "size": "G",
+     "sku": "CROPPED-REGATA-BEGE-G",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    },
+    {
+     "id": 70,
+     "size": "M",
+     "sku": "CROPPED-REGATA-PRETO-M",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 71,
+     "size": "G",
+     "sku": "CROPPED-REGATA-PRETO-G",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 72,
+     "size": "M",
+     "sku": "CROPPED-REGATA-AMARELO-CLARO-M",
+     "stock": 10,
+     "color_id": 15,
+     "color": "Amarelo-claro",
+     "hex": "#f0d39a"
+    },
+    {
+     "id": 73,
+     "size": "G",
+     "sku": "CROPPED-REGATA-AMARELO-CLARO-G",
+     "stock": 10,
+     "color_id": 15,
+     "color": "Amarelo-claro",
+     "hex": "#f0d39a"
+    },
+    {
+     "id": 74,
+     "size": "M",
+     "sku": "CROPPED-REGATA-BRANCO-M",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 75,
+     "size": "G",
+     "sku": "CROPPED-REGATA-BRANCO-G",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "images": [
+    {
+     "id": 9,
+     "url": "img/produtos/fem-regata-2.jpg",
+     "color_id": null,
+     "position": 0
+    },
+    {
+     "id": 10,
+     "url": "img/produtos/fem-regata-3.jpg",
+     "color_id": 12,
+     "position": 1
+    }
+   ],
+   "in_stock": true
+  },
+  {
+   "id": 1,
+   "slug": "regata-machao-poliamida",
+   "name": "Regata Machão Poliamida",
+   "description": "Regata machão masculina em poliamida, feita para treinar com liberdade nos ombros e nos braços.\nO tecido é respirável e leve, bom para musculação, corrida e treinos funcionais.\nTecido: poliamida.",
+   "audience": "masculino",
+   "category_id": 1,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": false,
+   "active": true,
+   "created_at": "2026-10-29 20:12:54",
+   "category": "regatas",
+   "category_name": "Regatas",
+   "colors": [
+    {
+     "id": 1,
+     "name": "Bege",
+     "hex": "#d9c3a5"
+    }
+   ],
+   "sizes": [
+    "A combinar"
+   ],
+   "variants": [
+    {
+     "id": 1,
+     "size": "A combinar",
+     "sku": "REGATA-MACHAO-POLIAMIDA-BEGE-ACOMBINAR",
+     "stock": 10,
+     "color_id": 1,
+     "color": "Bege",
+     "hex": "#d9c3a5"
+    }
+   ],
+   "images": [],
+   "in_stock": true
+  },
+  {
+   "id": 3,
+   "slug": "camisa-poliamida-uv",
+   "name": "Camisa Poliamida UV",
+   "description": "Camisa masculina em poliamida UV, com caimento justo e tecido leve.\nBoa para treinos ao ar livre e para o dia a dia.\nTecido: poliamida UV.",
+   "audience": "masculino",
+   "category_id": 2,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": false,
+   "active": true,
+   "created_at": "2026-10-29 18:12:54",
+   "category": "camisas",
+   "category_name": "Camisas",
+   "colors": [
+    {
+     "id": 3,
+     "name": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 5,
+     "name": "Azul-claro",
+     "hex": "#9fd0ea"
+    }
+   ],
+   "sizes": [
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "variants": [
+    {
+     "id": 14,
+     "size": "P",
+     "sku": "CAMISA-POLIAMIDA-UV-PRETO-P",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 15,
+     "size": "M",
+     "sku": "CAMISA-POLIAMIDA-UV-PRETO-M",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 16,
+     "size": "G",
+     "sku": "CAMISA-POLIAMIDA-UV-PRETO-G",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 17,
+     "size": "GG",
+     "sku": "CAMISA-POLIAMIDA-UV-PRETO-GG",
+     "stock": 10,
+     "color_id": 3,
+     "color": "Preto",
+     "hex": "#1b1b1f"
+    },
+    {
+     "id": 18,
+     "size": "P",
+     "sku": "CAMISA-POLIAMIDA-UV-AZUL-CLARO-P",
+     "stock": 10,
+     "color_id": 5,
+     "color": "Azul-claro",
+     "hex": "#9fd0ea"
+    },
+    {
+     "id": 19,
+     "size": "M",
+     "sku": "CAMISA-POLIAMIDA-UV-AZUL-CLARO-M",
+     "stock": 10,
+     "color_id": 5,
+     "color": "Azul-claro",
+     "hex": "#9fd0ea"
+    },
+    {
+     "id": 20,
+     "size": "G",
+     "sku": "CAMISA-POLIAMIDA-UV-AZUL-CLARO-G",
+     "stock": 10,
+     "color_id": 5,
+     "color": "Azul-claro",
+     "hex": "#9fd0ea"
+    },
+    {
+     "id": 21,
+     "size": "GG",
+     "sku": "CAMISA-POLIAMIDA-UV-AZUL-CLARO-GG",
+     "stock": 10,
+     "color_id": 5,
+     "color": "Azul-claro",
+     "hex": "#9fd0ea"
+    }
+   ],
+   "images": [],
+   "in_stock": true
+  },
+  {
+   "id": 4,
+   "slug": "camisa-dry-fit-grao-de-arroz",
+   "name": "Camisa Dry-Fit Grão de Arroz",
+   "description": "Camisa masculina dry-fit com textura grão de arroz e listras nos ombros.\nLeve e confortável para treinos de academia e esportes.\nTecido: dry-fit grão de arroz.",
+   "audience": "masculino",
+   "category_id": 2,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": false,
+   "active": true,
+   "created_at": "2026-10-29 17:12:54",
+   "category": "camisas",
+   "category_name": "Camisas",
+   "colors": [
+    {
+     "id": 6,
+     "name": "Azul royal",
+     "hex": "#2440b8"
+    }
+   ],
+   "sizes": [
+    "M",
+    "G",
+    "GG"
+   ],
+   "variants": [
+    {
+     "id": 22,
+     "size": "M",
+     "sku": "CAMISA-DRY-FIT-GRAO-DE-ARROZ-AZULROYAL-M",
+     "stock": 10,
+     "color_id": 6,
+     "color": "Azul royal",
+     "hex": "#2440b8"
+    },
+    {
+     "id": 23,
+     "size": "G",
+     "sku": "CAMISA-DRY-FIT-GRAO-DE-ARROZ-AZULROYAL-G",
+     "stock": 10,
+     "color_id": 6,
+     "color": "Azul royal",
+     "hex": "#2440b8"
+    },
+    {
+     "id": 24,
+     "size": "GG",
+     "sku": "CAMISA-DRY-FIT-GRAO-DE-ARROZ-AZULROYAL-GG",
+     "stock": 10,
+     "color_id": 6,
+     "color": "Azul royal",
+     "hex": "#2440b8"
+    }
+   ],
+   "images": [],
+   "in_stock": true
+  },
+  {
+   "id": 6,
+   "slug": "bermuda-premium-jordan",
+   "name": "Bermuda Premium Jordan",
+   "description": "Bermuda masculina premium com faixas laterais em contraste, cordão na cintura e bolso com zíper.",
+   "audience": "masculino",
+   "category_id": 3,
+   "price_cents": null,
+   "compare_at_cents": null,
+   "featured": false,
+   "active": true,
+   "created_at": "2026-10-29 15:12:54",
+   "category": "shorts",
+   "category_name": "Shorts e bermudas",
+   "colors": [
+    {
+     "id": 8,
+     "name": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "sizes": [
+    "M",
+    "G",
+    "GG"
+   ],
+   "variants": [
+    {
+     "id": 41,
+     "size": "M",
+     "sku": "BERMUDA-PREMIUM-JORDAN-BRANCO-M",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 42,
+     "size": "G",
+     "sku": "BERMUDA-PREMIUM-JORDAN-BRANCO-G",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    },
+    {
+     "id": 43,
+     "size": "GG",
+     "sku": "BERMUDA-PREMIUM-JORDAN-BRANCO-GG",
+     "stock": 10,
+     "color_id": 8,
+     "color": "Branco",
+     "hex": "#ffffff"
+    }
+   ],
+   "images": [
+    {
+     "id": 5,
+     "url": "img/produtos/masc-short-3.jpg",
+     "color_id": null,
+     "position": 0
+    }
+   ],
+   "in_stock": true
+  }
+ ]
+}

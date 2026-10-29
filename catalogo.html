@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catálogo — Combate Sports</title>
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main class="wrap">
+  <div class="cat-head">
+    <h1 id="title">Todas as peças</h1>
+    <p id="subtitle"></p>
+  </div>
+  <div class="catalog">
+    <form class="filters" id="filters" aria-label="Filtros">
+      <fieldset><legend>Para quem</legend><div class="opts">
+        <label class="chip"><input type="radio" name="publico" value="" checked><span>Todos</span></label>
+        <label class="chip"><input type="radio" name="publico" value="feminino"><span>Feminino</span></label>
+        <label class="chip"><input type="radio" name="publico" value="masculino"><span>Masculino</span></label>
+      </div></fieldset>
+      <fieldset><legend>Peça</legend><div class="opts" id="f-cat"></div></fieldset>
+      <fieldset><legend>Tamanho disponível</legend><div class="opts" id="f-size"></div></fieldset>
+      <fieldset><legend>Cor</legend><div class="opts" id="f-color"></div></fieldset>
+      <fieldset><legend>Preço até <output id="price-out"></output></legend>
+        <input type="range" name="preco" id="f-price" min="30" max="150" step="10" value="150" aria-label="Preço máximo">
+      </fieldset>
+      <fieldset><div class="opts"><label class="chip"><input type="checkbox" name="promo" value="1"><span>Só promoções</span></label></div></fieldset>
+      <p><button class="link" type="reset" style="border:0;background:none;padding:0">Limpar filtros</button></p>
+    </form>
+    <div>
+      <div class="toolbar">
+        <button class="btn ghost filters-btn" type="button" id="toggle-filters" aria-controls="filters" aria-expanded="false">Filtrar</button>
+        <span id="count" aria-live="polite"></span>
+        <label><span class="sr-only">Ordenar</span>
+          <select id="sort">
+            <option value="">Mais vendidos</option>
+            <option value="novidades">Novidades</option>
+            <option value="menor_preco">Menor preço</option>
+            <option value="maior_preco">Maior preço</option>
+          </select></label>
+      </div>
+      <div class="grid" id="results"></div>
+    </div>
+  </div>
+</main>
+<script type="module" src="js/catalogo.js"></script>
+</body>
+</html>
